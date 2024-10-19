@@ -1,0 +1,6 @@
+C:\Users\neths\source\repos\TasaBCV\TasaBCV\bin\publish\TasaBCV.exe
+C:\Users\neths\source\repos\TasaBCV\TasaBCV\bin\publish\TasaBCV.dll
+C:\Users\neths\source\repos\TasaBCV\TasaBCV\bin\publish\TasaBCV.deps.json
+C:\Users\neths\source\repos\TasaBCV\TasaBCV\bin\publish\TasaBCV.runtimeconfig.json
+C:\Users\neths\source\repos\TasaBCV\TasaBCV\bin\publish\TasaBCV.pdb
+C:\Users\neths\source\repos\TasaBCV\TasaBCV\bin\publish\HtmlAgilityPack.dll

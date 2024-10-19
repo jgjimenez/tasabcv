@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wtte5Fo/Ql0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\neths\\source\\repos\\TasaBCV\\TasaBCV\\TasaBCV.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\neths\\.nuget\\packages\\htmlagilitypack\\1.11.67\\htmlagilitypack.1.11.67.nupkg.sha512"
+  ],
+  "logs": []
+}

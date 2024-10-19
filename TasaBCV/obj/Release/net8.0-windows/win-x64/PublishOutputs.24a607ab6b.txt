@@ -1,0 +1,2 @@
+C:\Users\neths\source\repos\TasaBCV\TasaBCV\bin\publish\TasaBCV.pdb
+C:\Users\neths\source\repos\TasaBCV\TasaBCV\bin\publish\TasaBCV.exe
