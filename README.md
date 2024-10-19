@@ -25,3 +25,15 @@ Este es un servicio de Windows que realiza scraping de la página del Banco Cent
 1. Clona este repositorio en tu máquina local:
    ```bash
    git clone https://github.com/jgjimenez/tasabcv
+
+Uso
+Al iniciar el servicio, se ejecutará automáticamente el scraping de las tasas de cambio. Los valores se mostrarán en el icono de la bandeja del sistema. Puedes acceder a más opciones haciendo clic derecho en el icono.
+
+Contribuciones
+Las contribuciones son bienvenidas. Si deseas colaborar, por favor crea un fork del repositorio, realiza tus cambios y envía un pull request.
+
+Licencia
+Este proyecto está licenciado bajo la MIT License.
+
+Contacto
+Si tienes preguntas o sugerencias, puedes contactarme en nethsystemve@gmail.com.
