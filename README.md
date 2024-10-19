@@ -37,3 +37,14 @@ Este proyecto está licenciado bajo la MIT License.
 
 Contacto
 Si tienes preguntas o sugerencias, puedes contactarme en nethsystemve@gmail.com.
+
+Unete a nuestra causa en https://jgjimenez.github.io
+
+## Apoyo
+
+Si encuentras útil este proyecto y deseas apoyarme, considera hacer una donación a través de PayPal. Tu apoyo es muy apreciado y ayuda a mantener el desarrollo y mantenimiento del proyecto.
+
+[Apóyame en PayPal](https://paypal.me/josegjimenez) 
+
+¡Gracias por tu apoyo!
+
