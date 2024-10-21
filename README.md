@@ -1,5 +1,3 @@
-¡Claro! Aquí tienes el README en formato Markdown, con los enlaces organizados y los emoticonos añadidos:
-
 ```markdown
 # Tasa BCV
 
