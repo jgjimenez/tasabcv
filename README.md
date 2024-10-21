@@ -45,9 +45,16 @@ Unete a nuestra causa en https://jgjimenez.github.io
 Si encuentras útil este proyecto y deseas apoyarme, considera hacer una donación a través de PayPal. Tu apoyo es muy apreciado y ayuda a mantener el desarrollo y mantenimiento del proyecto.
 
 [Apóyame en PayPal](https://paypal.me/josegjimenez) 
-[Apóyame en PayPal 5](https://paypal.me/josegjimenez/5) 
-[Apóyame en PayPal 10](https://paypal.me/josegjimenez/10) 
-[Apóyame en PayPal 15](https://paypal.me/josegjimenez/15) 
+
+ 
+ 
+
+☕ [Apóyame en PayPal 5](https://paypal.me/josegjimenez/5)
+🍫 [Apóyame en PayPal 10](https://paypal.me/josegjimenez/10)
+🍽️ [Apóyame en PayPal 15](https://paypal.me/josegjimenez/15)
+🎉 Apóyame en PayPal 20
+💵 Apóyame en PayPal 50
+💰 Apóyame en PayPal 100
 
 ¡Gracias por tu apoyo!
 
