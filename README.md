@@ -18,7 +18,6 @@ Este es un servicio de Windows que realiza scraping de la página del Banco Cent
 
 - C# .NET
 - HtmlAgilityPack
-- Windows Forms
 
 ## Requisitos
 
