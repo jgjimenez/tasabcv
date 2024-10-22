@@ -5,8 +5,6 @@ C:\Users\neths\source\repos\TasaBCV\TasaBCV\bin\Release\net8.0-windows\TasaBCV.d
 C:\Users\neths\source\repos\TasaBCV\TasaBCV\bin\Release\net8.0-windows\TasaBCV.pdb
 C:\Users\neths\source\repos\TasaBCV\TasaBCV\bin\Release\net8.0-windows\HtmlAgilityPack.dll
 C:\Users\neths\source\repos\TasaBCV\TasaBCV\obj\Release\net8.0-windows\TasaBCV.csproj.AssemblyReference.cache
-C:\Users\neths\source\repos\TasaBCV\TasaBCV\obj\Release\net8.0-windows\TasaBCV.Principal.resources
-C:\Users\neths\source\repos\TasaBCV\TasaBCV\obj\Release\net8.0-windows\TasaBCV.csproj.GenerateResource.cache
 C:\Users\neths\source\repos\TasaBCV\TasaBCV\obj\Release\net8.0-windows\TasaBCV.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\neths\source\repos\TasaBCV\TasaBCV\obj\Release\net8.0-windows\TasaBCV.AssemblyInfoInputs.cache
 C:\Users\neths\source\repos\TasaBCV\TasaBCV\obj\Release\net8.0-windows\TasaBCV.AssemblyInfo.cs
